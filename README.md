@@ -5,12 +5,12 @@ Full-Stack Software Developer
 
 🛠️ Skills & Technologies
 
-Frontend: React, HTML5, CSS3, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB, MongoDB Atlas
-Version Control: Git, GitHub
-API Development: RESTful APIs, Postman
-Tools & Platforms: VS Code, Bootstrap, Docker
+1.Frontend: React, HTML5, CSS3, JavaScript
+2.Backend: Node.js, Express.js
+3.Database: MongoDB, MongoDB Atlas
+4.Version Control: Git, GitHub
+5.API Development: RESTful APIs, Postman
+6.Tools & Platforms: VS Code, Bootstrap, Docker
 
 💻 Current Projects
 
