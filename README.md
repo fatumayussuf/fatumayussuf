@@ -1,7 +1,7 @@
 Fatuma Yussuf Abdi
 Full-Stack Software Developer
 
-👋 Hi there! I’m Fatuma Yussuf Abdi, a dedicated Full-Stack Software Developer currently refining my skills at the Full-Stack Development Bootcamp at GomyCode Kenya (July 2024 - January 2025). My passion lies in creating dynamic, user-centric applications that deliver seamless experiences from front to back.
+👋 Hi there! I’m Fatuma Yussuf Abdi, a dedicated Full-Stack Software Developer . My passion lies in creating dynamic, user-centric applications that deliver seamless experiences from front to back.
 
 🛠️ Skills & Technologies
 
